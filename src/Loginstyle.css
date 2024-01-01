@@ -1,0 +1,22 @@
+.Formes{
+    margin-top: 130px;
+    border:2px solid black ;
+    width:400px ;
+    height: 350px;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 2px 2px 1px 1px black ;
+}
+
+.inputs{
+    margin-top: 25px;
+    width: 330px;
+    height: 30px;
+    border-radius: 6px 6px 6px 6px;
+    color: red;
+    text-shadow: 1px 1px  blue;
+}
+
+.links{
+color: yellow;
+
+}
